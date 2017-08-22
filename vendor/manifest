@@ -4,7 +4,7 @@
 		{
 			"importpath": "github.com/blevesearch/go-porterstemmer",
 			"repository": "https://github.com/blevesearch/go-porterstemmer",
-			"vcs": "",
+			"vcs": "git",
 			"revision": "23a2c8e5cf1f380f27722c6d2ae8896431dc7d0e",
 			"branch": "master",
 			"notests": true
@@ -12,8 +12,8 @@
 		{
 			"importpath": "github.com/blevesearch/segment",
 			"repository": "https://github.com/blevesearch/segment",
-			"vcs": "",
-			"revision": "db70c57796cc8c310613541dfade3dce627d09c7",
+			"vcs": "git",
+			"revision": "762005e7a34fd909a84586299f1dd457371d36ee",
 			"branch": "master",
 			"notests": true
 		},
@@ -44,8 +44,8 @@
 		{
 			"importpath": "github.com/golang/protobuf/proto",
 			"repository": "https://github.com/golang/protobuf",
-			"vcs": "",
-			"revision": "655cdfa588ea190e901bc5590e65d5621688847c",
+			"vcs": "git",
+			"revision": "ab9f9a6dab164b7d1246e0e688b0ab7b94d8553e",
 			"branch": "master",
 			"path": "/proto",
 			"notests": true
@@ -53,8 +53,8 @@
 		{
 			"importpath": "github.com/golang/snappy",
 			"repository": "https://github.com/golang/snappy",
-			"vcs": "",
-			"revision": "cef980a12b316c5b7e5bb3a8e168eb43ae999a88",
+			"vcs": "git",
+			"revision": "553a641470496b2327abcac10b36396bd98e45c9",
 			"branch": "master",
 			"notests": true
 		},
@@ -62,15 +62,15 @@
 			"importpath": "github.com/leemcloughlin/gofarmhash",
 			"repository": "https://github.com/leemcloughlin/gofarmhash",
 			"vcs": "git",
-			"revision": "b3cc1466b93e9c540eda444faaeba9876682c61b",
+			"revision": "0a055c5b87a8c55ce83459cbf2776b563822a942",
 			"branch": "master",
 			"notests": true
 		},
 		{
 			"importpath": "github.com/rcrowley/go-metrics",
 			"repository": "https://github.com/rcrowley/go-metrics",
-			"vcs": "",
-			"revision": "dee209f2455f101a5e4e593dea94872d2c62d85d",
+			"vcs": "git",
+			"revision": "1f30fe9094a513ce4c700b9a54458bbb0c96996c",
 			"branch": "master",
 			"notests": true
 		},
@@ -86,14 +86,14 @@
 			"importpath": "github.com/seiflotfy/cuckoofilter",
 			"repository": "https://github.com/seiflotfy/cuckoofilter",
 			"vcs": "git",
-			"revision": "d04838794ab86926d32b124345777e55e6f43974",
+			"revision": "7a54bb181c934e2356818705c89a6121d9f756ea",
 			"branch": "master",
 			"notests": true
 		},
 		{
 			"importpath": "github.com/steveyen/gtreap",
 			"repository": "https://github.com/steveyen/gtreap",
-			"vcs": "",
+			"vcs": "git",
 			"revision": "0abe01ef9be25c4aedc174758ec2d917314d6d70",
 			"branch": "master",
 			"notests": true
@@ -101,8 +101,8 @@
 		{
 			"importpath": "github.com/syndtr/goleveldb/leveldb",
 			"repository": "https://github.com/syndtr/goleveldb",
-			"vcs": "",
-			"revision": "93fc893f2dadb96ffde441c7546cc67ea290a3a8",
+			"vcs": "git",
+			"revision": "b89cc31ef7977104127d34c1bd31ebd1a9db2199",
 			"branch": "master",
 			"path": "/leveldb",
 			"notests": true
@@ -110,16 +110,16 @@
 		{
 			"importpath": "github.com/willf/bitset",
 			"repository": "https://github.com/willf/bitset",
-			"vcs": "",
-			"revision": "2e6e8094ef4745224150c88c16191c7dceaad16f",
+			"vcs": "git",
+			"revision": "988f4f24992fc745de53c42df0da6581e42a6686",
 			"branch": "master",
 			"notests": true
 		},
 		{
 			"importpath": "golang.org/x/text/transform",
 			"repository": "https://go.googlesource.com/text",
-			"vcs": "",
-			"revision": "5ee49cfe751141f8017047bab800d1f528ee3be1",
+			"vcs": "git",
+			"revision": "e56139fd9c5bc7244c76116c68e500765bb6db6b",
 			"branch": "master",
 			"path": "/transform",
 			"notests": true
@@ -127,8 +127,8 @@
 		{
 			"importpath": "golang.org/x/text/unicode/norm",
 			"repository": "https://go.googlesource.com/text",
-			"vcs": "",
-			"revision": "5ee49cfe751141f8017047bab800d1f528ee3be1",
+			"vcs": "git",
+			"revision": "e56139fd9c5bc7244c76116c68e500765bb6db6b",
 			"branch": "master",
 			"path": "/unicode/norm",
 			"notests": true
